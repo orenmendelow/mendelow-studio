@@ -37,3 +37,4 @@ Then visit http://localhost:8000
 ## 📝 License
 
 All rights reserved.
+Navigation links updated for GitHub Pages
